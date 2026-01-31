@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import nanminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-nanminabs@esm/index.mjs';
+import nanminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-nanminabs@v0.1.0-esm/index.mjs';
 ```
 
 #### nanminabs( x\[, options] )
@@ -206,7 +206,7 @@ import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoul
 import getDType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-ctor@esm/index.mjs';
-import nanminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-nanminabs@esm/index.mjs';
+import nanminabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-nanminabs@v0.1.0-esm/index.mjs';
 
 function rand() {
     if ( bernoulli( 0.8 ) < 1 ) {
